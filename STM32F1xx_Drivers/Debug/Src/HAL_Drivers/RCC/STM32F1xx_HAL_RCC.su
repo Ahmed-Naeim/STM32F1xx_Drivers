@@ -1,0 +1,2 @@
+../Src/HAL_Drivers/RCC/STM32F1xx_HAL_RCC.c:14:20:HAL_RCC_OscConfig	24	static
+../Src/HAL_Drivers/RCC/STM32F1xx_HAL_RCC.c:69:20:HAL_RCC_ClockConjfig	24	static

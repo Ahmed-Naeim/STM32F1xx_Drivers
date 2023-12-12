@@ -1,0 +1,7 @@
+../Src/CortexM3/CortexM3_Core_NVIC.c:21:6:NVIC_EnableIRQ	1
+../Src/CortexM3/CortexM3_Core_NVIC.c:37:6:NVIC_DisableIRQ	1
+../Src/CortexM3/CortexM3_Core_NVIC.c:53:6:NVIC_SetPendingIRQ	1
+../Src/CortexM3/CortexM3_Core_NVIC.c:69:6:NVIC_ClearPendingIRQ	1
+../Src/CortexM3/CortexM3_Core_NVIC.c:87:10:NVIC_GetActive	1
+../Src/CortexM3/CortexM3_Core_NVIC.c:107:6:NVIC_SetPriority	1
+../Src/CortexM3/CortexM3_Core_NVIC.c:132:10:NVIC_GetPriority	1

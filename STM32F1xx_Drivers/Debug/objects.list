@@ -1,0 +1,8 @@
+"./Src/CortexM3/CortexM3_Core_NVIC.o"
+"./Src/CortexM3/CortexM3_Core_SCB.o"
+"./Src/CortexM3/CortexM3_Core_SysTick.o"
+"./Src/HAL_Drivers/RCC/STM32F1xx_HAL_RCC.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f103c8tx.o"
